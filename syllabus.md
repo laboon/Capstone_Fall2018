@@ -30,7 +30,7 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 * Project Students
   * LECTURE: Intro to Retrospectives
-  * RETROSPECTIVE 1
+  * Retrospective 1
 
 ## 28 SEP
 
@@ -44,7 +44,7 @@ _Although the instructor will make a best effort to have the class topic on the 
 * Internship presentations
 
 * Project Students
-  * RETROSPECTIVE 2
+  * Retrospective 2
 
 
 ## 12 OCT
