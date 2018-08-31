@@ -1,14 +1,14 @@
-# Capstone Syllabus - Spring 2018
+# Capstone Syllabus - Fall 2018
 
 _Although the instructor will make a best effort to have the class topic on the day listed, occasionally a change must be made (e.g., a lecture going long, or a guest lecturer unable to make it to class that day).  However, these are the topics that will be covered and the expected date that they will be taught._
 
-## WEEK 1 (12 Jan)
+# 31 AUG
 
 * Introduction
 
 * Project Students: Project Selection
 
-## WEEK 2 (19 Jan)
+## 7 SEP
 
 * Internship presentations
 
@@ -16,95 +16,88 @@ _Although the instructor will make a best effort to have the class topic on the 
   * Project begins!
   * LECTURE: The Agile/Scrum Process
 
-## WEEK 3 (26 Jan)
+## 14 SEP
 
 * Internship presentations
 
 * Project Students
   * LECTURE: Requirements Elicitation
-
-## WEEK 4 (2 Feb)
-
-* TECH TALK: Panasas
-
-* Project Students
   * Project proposal due (one per group)
+
+## 21 SEP
+
+* Internship presentations
+
+* Project Students
   * LECTURE: Intro to Retrospectives
-  * Retrospective / Sprint Planning
+  * RETROSPECTIVE 1
 
-## WEEK 5 (9 Feb)
-
-* Internship presentations
-
-* Project Students
-  * Meeting time
-  
-## WEEK 6 (16 Feb)
-
-* Tech Talk (HM Health Solutions)
-
-* Project Students
-  * Retrospective / Sprint Planning
-
-## WEEK 7 (23 Feb)
+## 28 SEP
 
 * Internship presentations
 
 * Project Students
   * Meeting time
 
-## WEEK 8 (2 Mar)
-
-* TECH TALK: Grant Street Group
-
-* Project Students
-  * Retrospective / Sprint Planning
-  * Midterm Status Report due (one per group)
-
-## WEEK 9 (9 Mar)
-
-NO CLASS - SPRING BREAK
-
-## WEEK 10 (16 Mar)
+## 5 OCT
 
 * Internship presentations
 
-## WEEK 11 (23 Mar)
+* Project Students
+  * RETROSPECTIVE 2
 
-* TECH TALK: NetApp
+
+## 12 OCT
+
+* Internship presentations
 
 * Project Students
-  * Retrospective / Sprint Planning
+  * Meeting Time
 
-## WEEK 12 (30 Mar)
+## 19 OCT
+
+* Internship presentations
+
+* Project Students
+  * Retrospective 3
+
+## 26 OCT
+
+* Internship presentations
+
+* Project Students
+  * Meeting time
+  * Mid-term update due
+
+## 2 NOV
+
+* Internship presentations
+
+* Project Students
+  * Retrospective 4
+
+## 9 NOV
 
 * Internship presentations
 
 * Project Students
   * Meeting time
 
-## WEEK 13 (6 Apr)
+## 16 NOV
 
-* TECH TALK: UPMC Enterprise
+* Internship presentations
 
 * Project Students
-  * Retrospective / Sprint Planning
+  * Retrospective 5
 
-## WEEK 14 (13 Apr)
+## 23 NOV - NO CLASS
+
+## 30 NOV
 
 * Project presentations
 
-## WEEK 15 (20 Apr)
+## 7 DEC
+
+**ALL STUDENTS: FINAL PAPERS DUE**
 
 * Project presentations
-
-* ALL STUDENTS: FINAL PAPERS DUE!
-
-
-
-
-
-
-
-
-
