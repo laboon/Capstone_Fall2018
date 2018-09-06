@@ -102,6 +102,7 @@
 - Alex Drizos
 - Mitchell Leng
 - Craig Martin
+- William Kelly
 
 ## NO PRESENTATIONS ON 23 NOV - HAPPY THANKSGIVING
 
