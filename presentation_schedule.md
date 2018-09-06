@@ -82,6 +82,7 @@
 - David Dimond
 - Connie Suh
 - Tomasz Swierzewski
+- Jordan Carr
 
 ## 9 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Paul Elder
