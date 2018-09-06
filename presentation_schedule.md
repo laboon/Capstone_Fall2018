@@ -83,6 +83,7 @@
 - Connie Suh
 - Tomasz Swierzewski
 - Jordan Carr
+- James Hahn
 
 ## 9 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Paul Elder
