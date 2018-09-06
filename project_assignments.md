@@ -2,21 +2,25 @@
 
 ## NetApp
 - Taimah Williams
-- Tim Seaman
+- Matthew Duing
+- George Anthony Villacres
+- Ziran Cao
 
 ## General Dynamics / Viz
-- Ziran Cao
+N/A
 
 ## Bombardier
 - Jay Berdimuratov
-- John Kiener
+- Evan McWilliams
+- John Wartonick
 
 ## Queue Engineering Project for nortic.se
 - Anthony Martrano
-- John Wartonick
+- Caleb Shultz
+- John Kiener
 
 ## Impact of Artifact Evaluation on CS Scholarly Work
-- Matt Klaczak
+N/A
 
 ## A Comparative Study of Approaches for Predicting Patient’s Outcome
 - Dan Shirer
@@ -26,11 +30,10 @@
 - Kathryn Blythe
 
 ## QuACC: QUality Analysis of Cryptocurrency Codebases
-- Oliver Fleischmann
-- George Anthony Villacres
+- Anton Ozaeta
+- Alexander Ritov
 
 ## Segregating Private from Non-Private Data in A Web Service
-- Caleb Shultz
 - Pavel Braginsky
 
 ## Sterile Compounding Augmented Reality
@@ -42,13 +45,13 @@
 - Kevin Krause
 
 ## CampusGruv
-- Evan McWilliams
-- Josh Koshy
+N/A
 
 ## Healthy Living App
 - Alex McCafferty
-- Alexander Ritov
+- Josh Koshy
 
 ## Sheep and Goat Tracker
 - Richard Fulop
-- Anton Ozaeta
+- Oliver Fleischmann
+- Matt Klaczak
