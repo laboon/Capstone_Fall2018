@@ -92,6 +92,7 @@
 - Ryan Curran
 - Lucas Brennan
 - Andrew Lobos
+- Hayden Gill
 
 ## 16 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Yuan Yao
