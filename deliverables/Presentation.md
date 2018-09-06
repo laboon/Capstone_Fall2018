@@ -1,7 +1,5 @@
 # CS CAPSTONE
-Spring Semester 2018
-
-DUE DATE: (13 or 20 April 2018)
+Fall Semester 2018
 
 ## Project Students (CS1980/CS1981/CS1640/BIOSC1640)
 
@@ -9,9 +7,9 @@ Your presentation will be approximately 10 minutes.   This presentation should g
 
 ## Internship / Research Students (CS1900/CS1950)
 
-Your presentation will be 5 to 10 minutes.  It will be on one of the following dates:
+Your presentation will be 5 to 10 minutes.
 
-You can choose a _preferred_ date by creating an _issue_ on the class GitHub repo ( https://github.com/laboon/Capstone_Spring2018 ).  Note that this is a _preferred_, not _guaranteed_ date.  I will do my best to put any student who asks for a specific date on that date on a first-come, first-served basis.
+You can choose a _preferred_ date by creating an _issue_ on the class GitHub repo ( https://github.com/laboon/Capstone_Fall2018 ).  Note that this is a _preferred_, not _guaranteed_ date.  I will do my best to put any student who asks for a specific date on that date on a first-come, first-served basis.
 
 Instructions for selecting a preferred date or dates:
 
