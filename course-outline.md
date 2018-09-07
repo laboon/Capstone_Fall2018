@@ -30,7 +30,7 @@ You have two main responsibilities this term:
 
 Details on Assignments:
 
-Proposal Paper (14 SEPTEMBER 2018) -
+Proposal Paper (21 SEPTEMBER 2018) -
   * See Proposal.md
 
 Midterm Update (26 OCTOBER 2018) -

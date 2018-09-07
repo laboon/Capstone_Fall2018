@@ -5,10 +5,10 @@
 - Robert Rozin
 - Chris Zuis
 - Kristiana Mitchell
-- Kirtan Sakariya
+- Kirtan Sakariya *
 - Jack Toth
-- Zhen Yu Ding
-- Hannah Reiling
+- Zhen Yu Ding *
+- Hannah Reiling *
 
 ## 14 SEP (INTERNSHIP PRESENTATIONS ONLY)
 - Sai Konduru
@@ -47,6 +47,7 @@
 - Adam Farabaugh
 - Jameson Webb
 - Justin Budd
+- Hailey Innocenzo
 
 ## 12 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Yarden Dvir
@@ -56,6 +57,7 @@
 - Tammy Ma
 - Mathew Ciraula
 - Joseph Monaco
+- Chihao Sun
 
 ## 19 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Christain Brill
@@ -75,6 +77,7 @@
 - Michael Korst
 - Joshua Maciak
 - Devin Dang
+- Luis Taylor
 
 ## 2 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Bin Dong

@@ -22,7 +22,6 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 * Project Students
   * LECTURE: Requirements Elicitation
-  * Project proposal due (one per group)
 
 ## 21 SEP
 
@@ -30,6 +29,7 @@ _Although the instructor will make a best effort to have the class topic on the 
 
 * Project Students
   * LECTURE: Intro to Retrospectives
+  * Project proposal due (one per group)
   * Retrospective 1
 
 ## 28 SEP
