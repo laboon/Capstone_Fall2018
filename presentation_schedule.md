@@ -1,12 +1,12 @@
 # Presentation Schedule
 
 ## 7 SEP (INTERNSHIP PRESENTATIONS ONLY)
-- Michael Schropp
-- Robert Rozin
-- Chris Zuis
-- Kristiana Mitchell
+- Michael Schropp *
+- Robert Rozin *
+- Chris Zuis *
+- Kristiana Mitchell *
 - Kirtan Sakariya *
-- Jack Toth
+- Jack Toth o
 - Zhen Yu Ding *
 - Hannah Reiling *
 
