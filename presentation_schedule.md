@@ -65,6 +65,7 @@
 - Adriena Cribb
 - Mack Moynihan
 - Josh Gulden
+- Sravanthi Chintakunta
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Zhisheng Xu
