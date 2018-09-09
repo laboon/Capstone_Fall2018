@@ -38,6 +38,7 @@
 - Zack Hable
 - Allen Poon
 - David Brush
+- Audrey Ho
 
 ## 5 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Tyler Bobik
