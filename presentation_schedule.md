@@ -17,7 +17,6 @@
 - Sara Pike
 - Trevor Buchan
 - Andrew McLaren
-- Brandon Badger
 - Fred Erlenbusch
 
 ## 21 SEP (INTERNSHIP PRESENTATIONS ONLY)
@@ -34,7 +33,7 @@
 - Andrew Puglionesi
 - Jenni Faust
 - Drew Kozak
-- Tyler Handerhan
+- Tyler Handerhan and Brandon Badger
 - Zack Hable
 - Allen Poon
 - David Brush
@@ -115,3 +114,4 @@
 ## 30 NOV (PROJECT PRESENTATIONS ONLY)
 
 ## 7 DEC (PROJECT PRESENTATIONS ONLY)
+- Matthew Goetz
