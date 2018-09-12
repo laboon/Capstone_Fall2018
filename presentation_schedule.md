@@ -6,7 +6,7 @@
 - Chris Zuis *
 - Kristiana Mitchell *
 - Kirtan Sakariya *
-- Jack Toth o
+- Jack Toth *
 - Zhen Yu Ding *
 - Hannah Reiling *
 
