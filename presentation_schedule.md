@@ -11,13 +11,13 @@
 - Hannah Reiling *
 
 ## 14 SEP (INTERNSHIP PRESENTATIONS ONLY)
-- Sai Konduru
-- Ryan Killen
-- Marcus Dubreuil
-- Sara Pike
-- Trevor Buchan
-- Andrew McLaren
-- Fred Erlenbusch
+- Sai Konduru *
+- Ryan Killen *
+- Marcus Dubreuil *
+- Sara Pike *
+- Trevor Buchan *
+- Andrew McLaren x
+- Fred Erlenbusch *
 
 ## 21 SEP (INTERNSHIP PRESENTATIONS ONLY)
 - Benjamin Aston
