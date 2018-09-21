@@ -1,4 +1,4 @@
-# Presentation Schedule
+s# Presentation Schedule
 
 ## 7 SEP (INTERNSHIP PRESENTATIONS ONLY)
 - Michael Schropp *
@@ -16,7 +16,7 @@
 - Marcus Dubreuil *
 - Sara Pike *
 - Trevor Buchan *
-- Andrew McLaren x
+- Andrew McLaren *
 - Fred Erlenbusch *
 
 ## 21 SEP (INTERNSHIP PRESENTATIONS ONLY)
@@ -36,7 +36,6 @@
 - Tyler Handerhan and Brandon Badger
 - Zack Hable
 - Allen Poon
-- David Brush
 - Audrey Ho
 
 ## 5 OCT (INTERNSHIP PRESENTATIONS ONLY)
@@ -47,7 +46,6 @@
 - Adam Farabaugh
 - Jameson Webb
 - Justin Budd
-- Hailey Innocenzo
 
 ## 12 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Yarden Dvir
@@ -62,11 +60,9 @@
 ## 19 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Christain Brill
 - Mohit Jain
-- Emery Chew
 - Shantanu Vyas
 - Adriena Cribb
 - Mack Moynihan
-- Josh Gulden
 - Sravanthi Chintakunta
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
@@ -95,7 +91,6 @@
 - David Rowan
 - Chris Wood
 - Ryan Curran
-- Lucas Brennan
 - Andrew Lobos
 - Hayden Gill
 
@@ -112,6 +107,11 @@
 ## NO PRESENTATIONS ON 23 NOV - HAPPY THANKSGIVING
 
 ## 30 NOV (PROJECT PRESENTATIONS ONLY)
+- David Brush
+- Josh Gulden
+- Hailey Innocenzo
 
 ## 7 DEC (PROJECT PRESENTATIONS ONLY)
 - Matthew Goetz
+- Emery Chew
+- Lucas Brennan
