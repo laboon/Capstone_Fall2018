@@ -1,4 +1,4 @@
-s# Presentation Schedule
+# Presentation Schedule
 
 ## 7 SEP (INTERNSHIP PRESENTATIONS ONLY)
 - Michael Schropp *
