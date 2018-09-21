@@ -20,14 +20,14 @@
 - Fred Erlenbusch *
 
 ## 21 SEP (INTERNSHIP PRESENTATIONS ONLY)
-- Benjamin Aston
-- Alexander Stewart
-- Abbas Ahmed
-- Kyle Hartenstein
-- Joshua Zinkovsky
-- Katherine Kairis
-- Alec Magnani
-- Hassan Syed
+- Benjamin Aston *
+- Alexander Stewart *
+- Abbas Ahmed *
+- Kyle Hartenstein *
+- Joshua Zinkovsky *
+- Katherine Kairis *
+- Alec Magnani *
+- Hassan Syed *
 
 ## 28 SEP (INTERNSHIP PRESENTATIONS ONLY)
 - Andrew Puglionesi
