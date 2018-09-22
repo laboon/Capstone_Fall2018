@@ -32,6 +32,7 @@ N/A
 ## QuACC: QUality Analysis of Cryptocurrency Codebases
 - Anton Ozaeta
 - Alexander Ritov
+(Non-1950 students): Mike Okonski, Jamie Min, Chris Zuis
 
 ## Segregating Private from Non-Private Data in A Web Service
 - Pavel Braginsky
