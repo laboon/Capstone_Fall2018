@@ -63,7 +63,6 @@
 - Shantanu Vyas
 - Adriena Cribb
 - Mack Moynihan
-- Sravanthi Chintakunta
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Zhisheng Xu
@@ -109,6 +108,7 @@
 - David Brush
 - Josh Gulden
 - Hailey Innocenzo
+- Sravanthi Chintakunta
 
 ## 7 DEC (PROJECT PRESENTATIONS ONLY)
 - Matthew Goetz
