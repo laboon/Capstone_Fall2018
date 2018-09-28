@@ -30,13 +30,13 @@
 - Hassan Syed *
 
 ## 28 SEP (INTERNSHIP PRESENTATIONS ONLY)
-- Andrew Puglionesi
-- Jenni Faust
-- Drew Kozak
-- Tyler Handerhan and Brandon Badger
-- Zack Hable
-- Allen Poon
-- Audrey Ho
+- Andrew Puglionesi *
+- Jenni Faust *
+- Drew Kozak *
+- Tyler Handerhan and Brandon Badger *
+- Zack Hable *
+- Allen Poon *
+- Audrey Ho *
 
 ## 5 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Tyler Bobik
