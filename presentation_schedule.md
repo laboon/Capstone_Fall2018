@@ -109,6 +109,7 @@
 - Josh Gulden
 - Hailey Innocenzo
 - Sravanthi Chintakunta
+- Matthew Tschippert
 
 ## 7 DEC (PROJECT PRESENTATIONS ONLY)
 - Matthew Goetz
