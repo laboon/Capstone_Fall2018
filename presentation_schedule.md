@@ -40,27 +40,26 @@
 
 ## 5 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Tyler Bobik
-- Brian Choromanski
-- Eric Hunzeker
-- Josh Rodstein
-- Adam Farabaugh
-- Jameson Webb
-- Justin Budd
+- Brian Choromanski *
+- Eric Hunzeker *
+- Josh Rodstein *
+- Adam Farabaugh *
+- Jameson Webb *
+- Justin Budd *
 
 ## 12 OCT (INTERNSHIP PRESENTATIONS ONLY)
-- Yarden Dvir
-- Roisin O'Dowd
-- Erik Dash
-- Jake Himes
-- Tammy Ma
-- Mathew Ciraula
-- Joseph Monaco
-- Chihao Sun
+- Yarden Dvir o
+- Roisin O'Dowd *
+- Erik Dash *
+- Jake Himes *
+- Tammy Ma *
+- Mathew Ciraula *
+- Joseph Monaco *
+- Chihao Sun *
 
 ## 19 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Christain Brill
 - Mohit Jain
-- Shantanu Vyas
 - Adriena Cribb
 - Mack Moynihan
 
@@ -116,3 +115,4 @@
 - Emery Chew
 - Lucas Brennan
 - Hayden Gill
+- Shantanu Vyas
