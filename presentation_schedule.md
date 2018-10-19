@@ -58,10 +58,10 @@
 - Chihao Sun *
 
 ## 19 OCT (INTERNSHIP PRESENTATIONS ONLY)
-- Christain Brill
-- Mohit Jain
-- Adriena Cribb
-- Mack Moynihan
+- Christian Brill *
+- Mohit Jain *
+- Adriena Cribb *
+- Mack Moynihan *
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Zhisheng Xu
