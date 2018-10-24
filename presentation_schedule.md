@@ -48,7 +48,7 @@
 - Justin Budd *
 
 ## 12 OCT (INTERNSHIP PRESENTATIONS ONLY)
-- Yarden Dvir o
+- Yarden Dvir *
 - Roisin O'Dowd *
 - Erik Dash *
 - Jake Himes *
