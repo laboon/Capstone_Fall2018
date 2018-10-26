@@ -64,14 +64,14 @@
 - Mack Moynihan *
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
-- Zhisheng Xu
-- Adam Foulke
-- Micah Anthony
-- Ben Runco
-- Michael Korst
-- Joshua Maciak
-- Devin Dang
-- Luis Taylor
+- Zhisheng Xu *
+- Adam Foulke o
+- Micah Anthony *
+- Ben Runco o
+- Michael Korst *
+- Joshua Maciak *
+- Devin Dang *
+- Luis Taylor *
 
 ## 2 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Bin Dong
