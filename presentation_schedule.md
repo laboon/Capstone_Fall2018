@@ -77,7 +77,6 @@
 - Bin Dong
 - Joe Kovalik-Haas
 - Madihah Shaik
-- David Dimond
 - Connie Suh
 - Tomasz Swierzewski
 - Jordan Carr
@@ -116,3 +115,4 @@
 - Lucas Brennan
 - Hayden Gill
 - Shantanu Vyas
+- David Dimond
