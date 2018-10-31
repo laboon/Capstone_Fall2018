@@ -65,7 +65,7 @@
 
 ## 26 OCT (INTERNSHIP PRESENTATIONS ONLY)
 - Zhisheng Xu *
-- Adam Foulke o
+- Adam Foulke *
 - Micah Anthony *
 - Ben Runco o
 - Michael Korst *
