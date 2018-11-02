@@ -86,7 +86,6 @@
 - Paul Elder
 - Mathew Hoesch
 - David Rowan
-- Chris Wood
 - Ryan Curran
 - Andrew Lobos
 
@@ -108,6 +107,7 @@
 - Hailey Innocenzo
 - Sravanthi Chintakunta
 - Matthew Tschippert
+- Chris Wood
 
 ## 7 DEC (PROJECT PRESENTATIONS ONLY)
 - Matthew Goetz
