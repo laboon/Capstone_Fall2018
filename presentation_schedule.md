@@ -74,13 +74,13 @@
 - Luis Taylor *
 
 ## 2 NOV (INTERNSHIP PRESENTATIONS ONLY)
-- Bin Dong
-- Joe Kovalik-Haas
-- Madihah Shaik
-- Connie Suh
-- Tomasz Swierzewski
-- Jordan Carr
-- James Hahn
+- Bin Dong *
+- Joe Kovalik-Haas *
+- Madihah Shaik *
+- Connie Suh *
+- Tomasz Swierzewski *
+- Jordan Carr *
+- James Hahn *
 
 ## 9 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Paul Elder
