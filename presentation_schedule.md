@@ -39,7 +39,7 @@
 - Audrey Ho *
 
 ## 5 OCT (INTERNSHIP PRESENTATIONS ONLY)
-- Tyler Bobik
+- Tyler Bobik *
 - Brian Choromanski *
 - Eric Hunzeker *
 - Josh Rodstein *
@@ -83,11 +83,11 @@
 - James Hahn *
 
 ## 9 NOV (INTERNSHIP PRESENTATIONS ONLY)
-- Paul Elder
-- Mathew Hoesch
-- David Rowan
-- Ryan Curran
-- Andrew Lobos
+- Paul Elder *
+- Mathew Hoesch *
+- David Rowan o
+- Ryan Curran *
+- Andrew Lobos *
 
 ## 16 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Yuan Yao
