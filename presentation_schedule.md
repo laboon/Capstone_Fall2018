@@ -85,7 +85,7 @@
 ## 9 NOV (INTERNSHIP PRESENTATIONS ONLY)
 - Paul Elder *
 - Mathew Hoesch *
-- David Rowan o
+- David Rowan *
 - Ryan Curran *
 - Andrew Lobos *
 
