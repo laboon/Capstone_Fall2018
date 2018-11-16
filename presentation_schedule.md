@@ -90,18 +90,18 @@
 - Andrew Lobos *
 
 ## 16 NOV (INTERNSHIP PRESENTATIONS ONLY)
-- Yuan Yao
-- Adam Grusky
-- Michael Hoesch
-- Nathan Ackerman
-- Alex Drizos
-- Mitchell Leng
-- Craig Martin
-- William Kelly
+- Yuan Yao *
+- Adam Grusky *
+- Michael Hoesch *
+- Nathan Ackerman *
+- Alex Drizos *
+- Mitchell Leng *
+- Craig Martin o
+- William Kelly *
 
 ## NO PRESENTATIONS ON 23 NOV - HAPPY THANKSGIVING
 
-## 30 NOV (PROJECT PRESENTATIONS ONLY)
+## 30 NOV (PROJECT PRESENTATIONS)
 - David Brush
 - Josh Gulden
 - Hailey Innocenzo
@@ -109,10 +109,14 @@
 - Matthew Tschippert
 - Chris Wood
 
-## 7 DEC (PROJECT PRESENTATIONS ONLY)
+### Project Presentation
+
+## 7 DEC (PROJECT PRESENTATIONS)
 - Matthew Goetz
 - Emery Chew
 - Lucas Brennan
 - Hayden Gill
 - Shantanu Vyas
 - David Dimond
+
+### Project Presentation
