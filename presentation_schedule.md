@@ -96,7 +96,7 @@
 - Nathan Ackerman *
 - Alex Drizos *
 - Mitchell Leng *
-- Craig Martin o
+- Craig Martin *
 - William Kelly *
 
 ## NO PRESENTATIONS ON 23 NOV - HAPPY THANKSGIVING
@@ -111,6 +111,10 @@
 
 ### Project Presentation
 
+1. QUACC
+2. Sterile Compounding
+3. Cancer Database
+
 ## 7 DEC (PROJECT PRESENTATIONS)
 - Matthew Goetz
 - Emery Chew
@@ -120,3 +124,8 @@
 - David Dimond
 
 ### Project Presentation
+
+1. Nortic
+2. Bombardier
+3. NetApp
+
