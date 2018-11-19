@@ -114,6 +114,8 @@
 1. QUACC
 2. Sterile Compounding
 3. Cancer Database
+4. A Comparative Study of Approaches for Predicting Patient’s Outcome
+5. Sheep and Goat Tracker
 
 ## 7 DEC (PROJECT PRESENTATIONS)
 - Matthew Goetz
@@ -128,4 +130,5 @@
 1. Nortic
 2. Bombardier
 3. NetApp
-
+4. Civic App
+5. Healthy Living App

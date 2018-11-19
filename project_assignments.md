@@ -55,4 +55,3 @@ N/A
 ## Sheep and Goat Tracker
 - Richard Fulop
 - Oliver Fleischmann
-- Matt Klaczak
