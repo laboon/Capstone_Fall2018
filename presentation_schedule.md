@@ -124,6 +124,7 @@
 - Hayden Gill
 - Shantanu Vyas *
 - David Dimond
+- Pavel Braginsky *
 
 ### Project Presentation
 
