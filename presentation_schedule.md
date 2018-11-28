@@ -122,7 +122,7 @@
 - Emery Chew
 - Lucas Brennan
 - Hayden Gill
-- Shantanu Vyas
+- Shantanu Vyas *
 - David Dimond
 
 ### Project Presentation
