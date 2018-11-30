@@ -102,20 +102,20 @@
 ## NO PRESENTATIONS ON 23 NOV - HAPPY THANKSGIVING
 
 ## 30 NOV (PROJECT PRESENTATIONS)
-- David Brush
-- Josh Gulden
-- Hailey Innocenzo
-- Sravanthi Chintakunta
-- Matthew Tschippert
-- Chris Wood
+- David Brush *
+- Josh Gulden *
+- Hailey Innocenzo *
+- Sravanthi Chintakuta *
+- Matthew Tschippert *
+- Chris Wood *
 
 ### Project Presentation
 
-1. QUACC
-2. Sterile Compounding
-3. Cancer Database
-4. A Comparative Study of Approaches for Predicting Patient’s Outcome
-5. Sheep and Goat Tracker
+1. QUACC *
+2. Sterile Compounding *
+3. Cancer Database *
+4. A Comparative Study of Approaches for Predicting Patient’s Outcome *
+5. Sheep and Goat Tracker *
 
 ## 7 DEC (PROJECT PRESENTATIONS)
 - Matthew Goetz
