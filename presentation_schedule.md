@@ -117,6 +117,7 @@
 4. A Comparative Study of Approaches for Predicting Patient’s Outcome *
 5. Sheep and Goat Tracker *
 
+
 ## 7 DEC (PROJECT PRESENTATIONS)
 - Matthew Goetz
 - Emery Chew
