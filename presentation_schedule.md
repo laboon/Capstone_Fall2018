@@ -119,6 +119,7 @@
 
 
 ## 7 DEC (PROJECT PRESENTATIONS)
+- Tim Seaman *
 - Maya Lemmon-Kishi *
 - Matthew Goetz
 - Emery Chew
