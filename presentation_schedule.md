@@ -119,6 +119,7 @@
 
 
 ## 7 DEC (PROJECT PRESENTATIONS)
+- Maya Lemmon-Kishi *
 - Matthew Goetz
 - Emery Chew
 - Lucas Brennan
