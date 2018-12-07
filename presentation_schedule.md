@@ -121,18 +121,19 @@
 ## 7 DEC (PROJECT PRESENTATIONS)
 - Tim Seaman *
 - Maya Lemmon-Kishi *
-- Matthew Goetz
-- Emery Chew
-- Lucas Brennan
-- Hayden Gill
+- Ben Miller *
+- Matthew Goetz *
+- Emery Chew *
+- Lucas Brennan *
+- Hayden Gill *
 - Shantanu Vyas *
-- David Dimond
+- David Dimond *
 - Pavel Braginsky *
 
 ### Project Presentation
 
-1. Nortic
-2. Bombardier
-3. NetApp
-4. Civic App
-5. Healthy Living App
+1. Nortic *
+2. Bombardier *
+3. NetApp *
+4. Civic App *
+5. Healthy Living App *
